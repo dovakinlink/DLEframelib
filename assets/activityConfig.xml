@@ -1,0 +1,14 @@
+<?xml version=\"1.0\" encoding=\"UTF-8\"?>
+<activitys>
+    <activity>
+        <name>com.example.dlpdemoone.MainActivity</name>
+        <type>PluginActivity</type>
+        <ismain>true</ismain>
+    </activity>
+    
+    <activity>
+        <name>com.example.dlpdemoone.SecondActivity</name>
+        <type>PluginActivity</type>
+        <ismain>false</ismain>
+    </activity>
+</activitys>
